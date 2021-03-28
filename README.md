@@ -4,7 +4,7 @@ Hi there! I'm Hayden, a second-year in Computer Science and Economics at Univers
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy photography a lot!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=haydenmlh.haydenmlh)
 
