@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on building my personal website.
 - 🌱 I’m currently learning Computer Organization and Systems Programming.
-- 💬 Ask me about Photography
-- 📫 How to reach me: haydenmlh@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy photography a lot!
 
