@@ -2,7 +2,7 @@ Hi there! I'm Hayden, a second-year in Computer Science and Economics at Univers
 
 - 🔭 I’m currently working on building my personal website to showcase some of my photography!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy photography a lot! I also make gaming videos in my free time! :) Check them out at ![ASimulator Gaming Channel] (https://www.youtube.com/channel/UCjTNwPErdhg4zQxfbV2Cs0g)
+- ⚡ Fun fact: I enjoy photography a lot! I also make gaming videos in my free time! :) Check them out at [ASimulator Gaming Channel] (https://www.youtube.com/channel/UCjTNwPErdhg4zQxfbV2Cs0g)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)
 
