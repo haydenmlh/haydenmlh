@@ -1,6 +1,6 @@
 Hi there! I'm Hayden, a second-year in Computer Science and Economics at University of Toronto!
 
-- 🔭 I’m currently working on building my personal website.
+- 🔭 I’m currently working on building my personal website to showcase some of my photography!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy photography a lot!
 
