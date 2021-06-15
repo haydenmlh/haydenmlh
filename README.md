@@ -1,4 +1,4 @@
-Hi there! I'm Hayden, a second-year in Computer Science and Economics at University of Toronto!
+Hi there! I'm Hayden, a second-year in the Computer Science and Economics program at the University of Toronto!
 
 - 🔭 I’m currently working on building my personal website to showcase some of my photography! Check it out [here](https://haydenmlh.github.io/ "Hayden Mak - A Computer Scientist &amp; Developer")!
 - 😄 Pronouns: he/him
