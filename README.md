@@ -1,6 +1,6 @@
 Hi there! I'm Hayden, a second-year in the Computer Science and Economics program at the University of Toronto!
 
-- 🔭 I’m currently working on building my personal website to showcase some of my photography! Check it out [here](https://haydenmlh.github.io/ "Hayden Mak - A Computer Scientist &amp; Developer")!
+- 🔭 I’m currently working on building my personal website! Check it out [here](https://haydenmlh.github.io/ "Hayden Mak - A Computer Scientist &amp; Developer")!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy photography a lot! Check out my nature photography on my [Instagram](https://www.instagram.com/haydennnature/ "Instagram: haydennnature")!
 - I also make gaming videos in my free time! (Once in a blue moon)
