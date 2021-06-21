@@ -11,7 +11,7 @@ Hi there! I'm Hayden, I'm a third year undergraduate in the Computer Science and
 
 ### Currently for Leisure 🤩
 - 📘 Lord of the Rings
-- 🍴 Don't Starve Together 🎈 Bloons TD6
+- 🎮 Don't Starve Together 🎈 Bloons TD6
 - 🏓 Table tennis 🎾 Tennis 🏔 Rock Climbing
 - 📺 Naruto
 
