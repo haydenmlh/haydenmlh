@@ -1,4 +1,4 @@
-Hi there! I'm Hayden, I'm a third year undergraduate in the Computer Science and Economics program at the University of Toronto. 
+Hi there! I'm Hayden, I'm a third year undergraduate majoring in Computer Science and Economics at the University of Toronto. 
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on building my personal website! [Check it out!](https://haydenmlh.github.io/ "Hayden Mak - A Computer Scientist &amp; Developer")
