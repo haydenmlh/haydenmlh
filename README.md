@@ -10,9 +10,8 @@ Hi there! I'm Hayden, I'm a third year undergraduate majoring in Computer Scienc
 
 ### Currently for Leisure 🤩
 - 📘 Lord of the Rings
-- 🎮 🍴 Don't Starve Together 🎈 Bloons TD6
-- 🎾 Tennis 🏔 Rock Climbing
-- 📺 Squid Game
+- 🎈 Bloons TD6
+- 🎾 Tennis 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)
