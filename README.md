@@ -7,12 +7,9 @@ Hi there! I'm Hayden, I'm a third year undergraduate majoring in Computer Scienc
 - 🏢 I'm the Photos Editor at [The Medium](https://themedium.ca/), the university's student newspaper. I've [contributed photos](https://archive.themedium.ca/author/hayden-mak/) to over 80 articles.
 - 📫 How to reach me: haydenmlh@gmail.com or [LinkedIn](https://www.linkedin.com/in/haydenmlh/)
 
+Languages: Python, Java, Javascript, C++
 
-### Currently for Leisure 🤩
-- 📘 Lord of the Rings
-- 🎮 CS:GO
-- 🎾 Tennis 
-
+Frameworks: React Native
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)
 
