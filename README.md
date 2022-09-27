@@ -1,4 +1,4 @@
-Hi there! I'm Hayden, I'm a third year undergraduate majoring in Computer Science and Economics at the University of Toronto. Learn more about me on my [website](https://haydenmlh.github.io/)!
+Hi there! I'm Hayden, I'm a fourth year undergraduate majoring in Computer Science and Economics at the University of Toronto. Learn more about me on my [website](https://haydenmlh.github.io/)!
 
 - 😄 Pronouns: he/him
 - 🔭 Currently working on a [React Native Weather App](https://github.com/haydenmlh/WeatherMan). 
