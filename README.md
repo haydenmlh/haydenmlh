@@ -7,7 +7,7 @@ Hi there! I'm Hayden, a fourth year undergraduate majoring in Computer Science a
 
 Languages: Python, Java, Javascript, C
 
-Frameworks: React Native, Django
+Frameworks: React Native, Django, Express.js, Node.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)
 
