@@ -11,4 +11,3 @@ Frameworks: React Native, Django, Express.js, Node.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=haydenmlh.haydenmlh)
