@@ -1,4 +1,4 @@
-Hi there! I'm Hayden, a fourth year undergraduate majoring in Computer Science and Economics at the University of Toronto. Learn more about me on my [website](https://haydenmlh.github.io/)!
+Hi there! I'm Hayden, a fourth year undergraduate majoring in Computer Science and Economics at the University of Toronto. Learn more about me on my [website](https://haydenmlh.com/)!
 
 - 😄 Pronouns: he/him
 - 🔭 
