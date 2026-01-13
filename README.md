@@ -8,5 +8,4 @@ Languages: Python, Java, Javascript, C
 
 Frameworks: React Native, Django, Express.js, Node.js
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenmlh&layout=compact)
 
