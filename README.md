@@ -4,8 +4,8 @@ Hi there! I'm Hayden, a recent HBSc Graduate in Computer Science and Economics a
 - ⚡ Fun fact: I enjoy photography a lot. Check out my photography on my [Instagram](https://www.instagram.com/haydenm.photos)! 
 - 📫 How to reach me: haydenmlh@gmail.com or [LinkedIn](https://www.linkedin.com/in/haydenmlh/)
 
-Languages: Python, Java, Javascript, C
+Languages: Python, Dart, Java, Javascript, C
 
-Frameworks: React Native, Django, Express.js, Node.js
+Frameworks: Flutter, React Native, Django, Express.js, Node.js
 
 
